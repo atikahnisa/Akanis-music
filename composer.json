@@ -1,0 +1,19 @@
+{
+    "name": "atikah-uts/uts_pbwl",
+    "description": "UTS PBWL Pemrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "atikahkhoirunnisa",
+            "email": "atikahkhoirunnisa22@gmail.com"
+        }
+    ]
+}
